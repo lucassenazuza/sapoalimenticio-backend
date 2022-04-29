@@ -2,21 +2,25 @@
 
   O Projeto Sapo Alimentício é uma aplicação com backend desenvolvido em python e frontend desenvolvido em ReactJS https://github.com/lucassenazuza/sapoalimenticio-front
   
+# Heroku
+ O Projeto foi disponibilizado no Heroku, e está disponível pelo link:
+ https://sapoalimenticio.herokuapp.com/
+  
 ## Instalação
 ```
 $ pip install -r requirements.txt
 ```
 ## Estrutura de arquivos
-
- - sapoalimenticio
-  | - app
-  |  | - controllers
-  |  | - services
-  |  |  | - scripts
-  |  | - models
-  | - alimentos
-  | - logs
-  
+```
+- sapoalimenticio
+| - app
+|  | - controllers
+|  | - services
+|  |  | - scripts
+|  | - models
+| - alimentos
+| - logs
+```
 
 ## Endpoints
 ```
